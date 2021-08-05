@@ -6,6 +6,6 @@
   <b>Institution:</b> Babol Noshirvani University of Technology <br>
 * Reference: H. Jandaghi, A. Haghgoo, Optimization of Water Distribution Networks Using Simulated Annealing with Variable Neighborhood Search (SA-VNS), Submitted to Swarm and Evolutionary Computation Journal
 
-  Note: All C++ codes will release here after puplishing in journal.
+  Note: All C++ codes will release here after publishing in journal.
 </font>
 
