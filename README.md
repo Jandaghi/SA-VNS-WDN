@@ -4,7 +4,7 @@
    Test Instances, Detailed Experimental Results (Solutions & Objective Values) <br>
   <b>Authors:</b> Hossein Jandaghi; Ahmad Haghgoo<br>
   <b>Institution:</b> Babol Noshirvani University of Technology <br>
-* Reference: H. Jandaghi, A. Haghgoo, Optimization of Water Distribution Networks Using Simulated Annealing with Variable Neighborhood Search (SA-VNS), Submitted to Swarm and Evolutionary Computation Journal
+* Reference: H. Jandaghi, A. Haghgoo, Optimization of Water Distribution Networks Using Simulated Annealing with Variable Neighborhood Search (SA-VNS), Submitted to Journal
 
   Note: All C++ codes will release here after publishing in journal.
 </font>
