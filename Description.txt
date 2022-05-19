@@ -1,0 +1,19 @@
+.diam file is diameter and cost input
+.inp file is EPanet input file
+
+The name of both above files should be equal
+
+Description For .diam file:
+
+NO1: Nlink
+NO2: Nnode
+NO3: Ndiam
+
+NO4: MinVel
+NO5: MaxVel
+NO6: MinPrs
+NO7: MaxPrs
+
+
+Then Read commercial diameter  in column 1
+Then Read commercial cost for each diameter in column 2
